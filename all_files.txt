@@ -1,0 +1,194 @@
+.:
+total 24
+drwxrwxr-x  5 rcl rcl 4096 Jul  4 15:01 .
+drwxr-x--- 35 rcl rcl 4096 Jul  4 14:48 ..
+-rw-rw-r--  1 rcl rcl    0 Jul  4 15:01 all_files.txt
+drwxrwxr-x  8 rcl rcl 4096 Jul  4 14:58 .git
+-rw-rw-r--  1 rcl rcl  117 Jul  4 14:58 .gitmodules
+drwxrwxr-x  2 rcl rcl 4096 Jul  4 14:48 melissani-cave.com
+drwxrwxr-x  3 rcl rcl 4096 Jul  4 14:48 research
+
+./.git:
+total 60
+drwxrwxr-x 8 rcl rcl 4096 Jul  4 14:58 .
+drwxrwxr-x 5 rcl rcl 4096 Jul  4 15:01 ..
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 branches
+-rw-rw-r-- 1 rcl rcl  298 Jul  4 14:51 config
+-rw-rw-r-- 1 rcl rcl   73 Jul  4 14:48 description
+-rw-rw-r-- 1 rcl rcl   96 Jul  4 14:59 FETCH_HEAD
+-rw-rw-r-- 1 rcl rcl   21 Jul  4 14:48 HEAD
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 hooks
+-rw-rw-r-- 1 rcl rcl 2181 Jul  4 14:58 index
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 info
+drwxrwxr-x 3 rcl rcl 4096 Jul  4 14:48 logs
+drwxrwxr-x 7 rcl rcl 4096 Jul  4 14:59 objects
+-rw-rw-r-- 1 rcl rcl   41 Jul  4 14:58 ORIG_HEAD
+-rw-rw-r-- 1 rcl rcl  112 Jul  4 14:48 packed-refs
+drwxrwxr-x 5 rcl rcl 4096 Jul  4 14:48 refs
+
+./.git/branches:
+total 8
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 8 rcl rcl 4096 Jul  4 14:58 ..
+
+./.git/hooks:
+total 72
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 8 rcl rcl 4096 Jul  4 14:58 ..
+-rwxrwxr-x 1 rcl rcl  478 Jul  4 14:48 applypatch-msg.sample
+-rwxrwxr-x 1 rcl rcl  896 Jul  4 14:48 commit-msg.sample
+-rwxrwxr-x 1 rcl rcl 4726 Jul  4 14:48 fsmonitor-watchman.sample
+-rwxrwxr-x 1 rcl rcl  189 Jul  4 14:48 post-update.sample
+-rwxrwxr-x 1 rcl rcl  424 Jul  4 14:48 pre-applypatch.sample
+-rwxrwxr-x 1 rcl rcl 1643 Jul  4 14:48 pre-commit.sample
+-rwxrwxr-x 1 rcl rcl  416 Jul  4 14:48 pre-merge-commit.sample
+-rwxrwxr-x 1 rcl rcl 1492 Jul  4 14:48 prepare-commit-msg.sample
+-rwxrwxr-x 1 rcl rcl 1374 Jul  4 14:48 pre-push.sample
+-rwxrwxr-x 1 rcl rcl 4898 Jul  4 14:48 pre-rebase.sample
+-rwxrwxr-x 1 rcl rcl  544 Jul  4 14:48 pre-receive.sample
+-rwxrwxr-x 1 rcl rcl 2783 Jul  4 14:48 push-to-checkout.sample
+-rwxrwxr-x 1 rcl rcl 2308 Jul  4 14:48 sendemail-validate.sample
+-rwxrwxr-x 1 rcl rcl 3650 Jul  4 14:48 update.sample
+
+./.git/info:
+total 12
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 8 rcl rcl 4096 Jul  4 14:58 ..
+-rw-rw-r-- 1 rcl rcl  240 Jul  4 14:48 exclude
+
+./.git/logs:
+total 16
+drwxrwxr-x 3 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 8 rcl rcl 4096 Jul  4 14:58 ..
+-rw-rw-r-- 1 rcl rcl  340 Jul  4 14:58 HEAD
+drwxrwxr-x 4 rcl rcl 4096 Jul  4 14:48 refs
+
+./.git/logs/refs:
+total 16
+drwxrwxr-x 4 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 3 rcl rcl 4096 Jul  4 14:48 ..
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 heads
+drwxrwxr-x 3 rcl rcl 4096 Jul  4 14:48 remotes
+
+./.git/logs/refs/heads:
+total 12
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 4 rcl rcl 4096 Jul  4 14:48 ..
+-rw-rw-r-- 1 rcl rcl  340 Jul  4 14:58 main
+
+./.git/logs/refs/remotes:
+total 12
+drwxrwxr-x 3 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 4 rcl rcl 4096 Jul  4 14:48 ..
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 origin
+
+./.git/logs/refs/remotes/origin:
+total 16
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 .
+drwxrwxr-x 3 rcl rcl 4096 Jul  4 14:48 ..
+-rw-rw-r-- 1 rcl rcl  187 Jul  4 14:48 HEAD
+-rw-rw-r-- 1 rcl rcl  153 Jul  4 14:58 main
+
+./.git/objects:
+total 28
+drwxrwxr-x 7 rcl rcl 4096 Jul  4 14:59 .
+drwxrwxr-x 8 rcl rcl 4096 Jul  4 14:58 ..
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 39
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 68
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 fb
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 info
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 pack
+
+./.git/objects/39:
+total 12
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 .
+drwxrwxr-x 7 rcl rcl 4096 Jul  4 14:59 ..
+-r--r--r-- 1 rcl rcl  136 Jul  4 14:58 8eb07a8599aa10cbecd17757bb8e34635f4b40
+
+./.git/objects/68:
+total 12
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 .
+drwxrwxr-x 7 rcl rcl 4096 Jul  4 14:59 ..
+-r--r--r-- 1 rcl rcl   99 Jul  4 14:58 f3f4b960e4dbd6c290e97780d58a179f916807
+
+./.git/objects/fb:
+total 12
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 .
+drwxrwxr-x 7 rcl rcl 4096 Jul  4 14:59 ..
+-r--r--r-- 1 rcl rcl  154 Jul  4 14:58 2c52ba2320238c6a9604babf93cf7be56732ee
+
+./.git/objects/info:
+total 8
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 7 rcl rcl 4096 Jul  4 14:59 ..
+
+./.git/objects/pack:
+total 64
+drwxrwxr-x 2 rcl rcl  4096 Jul  4 14:48 .
+drwxrwxr-x 7 rcl rcl  4096 Jul  4 14:59 ..
+-r--r--r-- 1 rcl rcl  1688 Jul  4 14:48 pack-e07d9f281f3eddf64829d100aba2897263a5fba2.idx
+-r--r--r-- 1 rcl rcl 48094 Jul  4 14:48 pack-e07d9f281f3eddf64829d100aba2897263a5fba2.pack
+-r--r--r-- 1 rcl rcl   140 Jul  4 14:48 pack-e07d9f281f3eddf64829d100aba2897263a5fba2.rev
+
+./.git/refs:
+total 20
+drwxrwxr-x 5 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 8 rcl rcl 4096 Jul  4 14:58 ..
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 heads
+drwxrwxr-x 3 rcl rcl 4096 Jul  4 14:48 remotes
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 tags
+
+./.git/refs/heads:
+total 12
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 .
+drwxrwxr-x 5 rcl rcl 4096 Jul  4 14:48 ..
+-rw-rw-r-- 1 rcl rcl   41 Jul  4 14:58 main
+
+./.git/refs/remotes:
+total 12
+drwxrwxr-x 3 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 5 rcl rcl 4096 Jul  4 14:48 ..
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 origin
+
+./.git/refs/remotes/origin:
+total 16
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:58 .
+drwxrwxr-x 3 rcl rcl 4096 Jul  4 14:48 ..
+-rw-rw-r-- 1 rcl rcl   30 Jul  4 14:48 HEAD
+-rw-rw-r-- 1 rcl rcl   41 Jul  4 14:58 main
+
+./.git/refs/tags:
+total 8
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 5 rcl rcl 4096 Jul  4 14:48 ..
+
+./melissani-cave.com:
+total 8
+drwxrwxr-x 2 rcl rcl 4096 Jul  4 14:48 .
+drwxrwxr-x 5 rcl rcl 4096 Jul  4 15:01 ..
+
+./research:
+total 96
+drwxrwxr-x 3 rcl rcl  4096 Jul  4 14:48 .
+drwxrwxr-x 5 rcl rcl  4096 Jul  4 15:01 ..
+-rw-rw-r-- 1 rcl rcl  6010 Jul  4 14:48 briefing.txt
+-rw-rw-r-- 1 rcl rcl  5626 Jul  4 14:48 deepseek.txt
+-rw-rw-r-- 1 rcl rcl  6377 Jul  4 14:48 faq.txt
+drwxrwxr-x 2 rcl rcl  4096 Jul  4 14:48 https___www.melissani-cave.com_-Performance-on-Search-2025-07-04
+-rw-rw-r-- 1 rcl rcl 13463 Jul  4 14:48 Melissani Cave, Kefalonia_ The Complete Visitor’s.md
+-rw-rw-r-- 1 rcl rcl 16469 Jul  4 14:48 scira.txt
+-rw-rw-r-- 1 rcl rcl  8570 Jul  4 14:48 studyguide.txt
+-rw-rw-r-- 1 rcl rcl  5951 Jul  4 14:48 timeline.txt
+-rw-rw-r-- 1 rcl rcl  2817 Jul  4 14:48 www.youtube.com_4th_Jul_2025.csv
+
+./research/https___www.melissani-cave.com_-Performance-on-Search-2025-07-04:
+total 88
+drwxrwxr-x 2 rcl rcl  4096 Jul  4 14:48 .
+drwxrwxr-x 3 rcl rcl  4096 Jul  4 14:48 ..
+-rw-rw-r-- 1 rcl rcl  5211 Jul  4 14:48 Countries.csv
+-rw-rw-r-- 1 rcl rcl 14228 Jul  4 14:48 Dates.csv
+-rw-rw-r-- 1 rcl rcl   126 Jul  4 14:48 Devices.csv
+-rw-rw-r-- 1 rcl rcl    48 Jul  4 14:48 Filters.csv
+-rw-rw-r-- 1 rcl rcl  1968 Jul  4 14:48 Pages.csv
+-rw-rw-r-- 1 rcl rcl 37390 Jul  4 14:48 Queries.csv
+-rw-rw-r-- 1 rcl rcl   119 Jul  4 14:48 Search appearance.csv
