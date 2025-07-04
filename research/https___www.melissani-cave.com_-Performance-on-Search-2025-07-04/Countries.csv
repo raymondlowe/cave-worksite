@@ -1,0 +1,213 @@
+Country,Clicks,Impressions,CTR,Position
+Greece,17765,160940,11.04%,6.55
+United Kingdom,4588,68130,6.73%,7.14
+United States,993,44211,2.25%,7.33
+Italy,944,11116,8.49%,8.19
+Netherlands,686,9030,7.6%,6.84
+Romania,402,7236,5.56%,6.74
+Germany,392,10151,3.86%,9.64
+Australia,379,8490,4.46%,6.93
+Israel,326,3097,10.53%,5.36
+Czechia,299,2993,9.99%,5.34
+Spain,294,3258,9.02%,6.65
+France,278,3511,7.92%,7.67
+Poland,272,4875,5.58%,6.88
+Canada,218,6156,3.54%,7.39
+Hungary,203,2933,6.92%,5.74
+Austria,178,3398,5.24%,8.17
+Bulgaria,160,2414,6.63%,5.98
+Cyprus,151,1930,7.82%,6.56
+Slovakia,149,1838,8.11%,5.88
+Slovenia,144,1275,11.29%,5.3
+Belgium,142,1836,7.73%,5.88
+Portugal,118,1054,11.2%,6.06
+Switzerland,111,1847,6.01%,7.52
+Serbia,96,2248,4.27%,6.62
+Sweden,77,1789,4.3%,6.59
+Norway,63,1186,5.31%,6.26
+Brazil,53,4883,1.09%,10.53
+Denmark,46,1003,4.59%,5.88
+Turkey,43,1870,2.3%,8.37
+Ireland,42,902,4.66%,7.65
+Finland,38,617,6.16%,6.2
+Lithuania,35,629,5.56%,6.55
+New Zealand,29,686,4.23%,6.12
+Croatia,28,477,5.87%,6.4
+South Africa,22,881,2.5%,7.82
+Macedonia,21,796,2.64%,6.95
+Albania,20,634,3.15%,6.93
+India,19,2922,0.65%,10.91
+Unknown Region,19,381,4.99%,8.36
+Japan,18,489,3.68%,9.79
+Luxembourg,18,329,5.47%,6.5
+Malta,15,351,4.27%,6.29
+Singapore,12,773,1.55%,6.21
+Colombia,11,349,3.15%,10.11
+Latvia,11,170,6.47%,6.84
+Estonia,10,145,6.9%,5.11
+Ukraine,9,683,1.32%,9.65
+Moldova,9,355,2.54%,6.85
+South Korea,8,1576,0.51%,9.21
+Montenegro,8,154,5.19%,7.24
+Mexico,7,776,0.9%,11.08
+Argentina,7,601,1.16%,10.39
+Taiwan,7,472,1.48%,10.13
+Hong Kong,6,266,2.26%,6.56
+Lebanon,6,192,3.12%,7.35
+Iceland,6,79,7.59%,6.03
+Isle of Man,6,58,10.34%,5.83
+Russia,5,2501,0.2%,11.29
+Vietnam,4,1073,0.37%,10.99
+Philippines,4,819,0.49%,10.09
+Indonesia,4,655,0.61%,11.74
+United Arab Emirates,4,385,1.04%,7.7
+Saudi Arabia,4,278,1.44%,11.18
+Morocco,4,181,2.21%,10.41
+Peru,4,170,2.35%,14.59
+Bosnia & Herzegovina,4,119,3.36%,7.25
+Armenia,4,94,4.26%,7.45
+Jersey,4,85,4.71%,7.53
+Guernsey,4,44,9.09%,6.36
+Malaysia,3,478,0.63%,8.88
+Thailand,3,295,1.02%,7.97
+Iran,2,276,0.72%,7.59
+Georgia,2,189,1.06%,8.24
+Chile,2,181,1.1%,11.13
+Jordan,2,116,1.72%,9.45
+Sri Lanka,2,106,1.89%,8.08
+Qatar,2,70,2.86%,7.63
+Costa Rica,2,63,3.17%,7.52
+Bahrain,2,56,3.57%,10.61
+Monaco,2,24,8.33%,6.38
+Gibraltar,2,15,13.33%,5.13
+Egypt,1,350,0.29%,8.7
+Bangladesh,1,189,0.53%,11.79
+Nigeria,1,150,0.67%,9.01
+Kazakhstan,1,118,0.85%,11.86
+Kenya,1,117,0.85%,13.5
+Uruguay,1,93,1.08%,8.99
+Kuwait,1,69,1.45%,7.33
+China,1,41,2.44%,6.78
+Senegal,1,30,3.33%,12.7
+Oman,1,29,3.45%,6.93
+Bahamas,1,27,3.7%,8.78
+Mauritius,1,26,3.85%,8.23
+Zambia,1,20,5%,6.15
+Seychelles,1,20,5%,9.6
+San Marino,1,9,11.11%,10.78
+US Virgin Islands,1,7,14.29%,7.29
+Montserrat,1,1,100%,2
+Pakistan,0,343,0%,10.33
+Ecuador,0,177,0%,10.42
+Iraq,0,166,0%,13.9
+Venezuela,0,134,0%,12.75
+Tunisia,0,115,0%,11.91
+Uzbekistan,0,106,0%,10.61
+Algeria,0,99,0%,11.15
+Dominican Republic,0,98,0%,12.55
+Belarus,0,89,0%,12.04
+Paraguay,0,82,0%,11.83
+Trinidad & Tobago,0,78,0%,15.65
+Panama,0,76,0%,9.01
+Puerto Rico,0,73,0%,6.23
+Azerbaijan,0,68,0%,9.35
+Nepal,0,65,0%,10.6
+Myanmar (Burma),0,57,0%,10.53
+Jamaica,0,55,0%,11.4
+Ethiopia,0,51,0%,13.06
+Guatemala,0,50,0%,6.42
+Palestine,0,48,0%,9.5
+Ghana,0,47,0%,8.96
+Barbados,0,42,0%,12.83
+Bolivia,0,42,0%,16.4
+Cambodia,0,34,0%,14.74
+Honduras,0,33,0%,6.48
+Zimbabwe,0,30,0%,8.93
+Kosovo,0,27,0%,7.93
+Maldives,0,26,0%,10.27
+Tanzania,0,23,0%,11.43
+Côte d’Ivoire,0,23,0%,13.22
+El Salvador,0,23,0%,19.57
+Kyrgyzstan,0,21,0%,15.62
+Cayman Islands,0,19,0%,7
+Uganda,0,19,0%,10.84
+Libya,0,19,0%,11.11
+Cape Verde,0,18,0%,9.67
+Nicaragua,0,17,0%,15.29
+Mongolia,0,17,0%,16.35
+Brunei,0,16,0%,8.75
+Angola,0,16,0%,13.5
+Andorra,0,15,0%,8
+Syria,0,15,0%,10.53
+Macau,0,12,0%,4.25
+Guam,0,12,0%,6.75
+Liechtenstein,0,12,0%,9.92
+Belize,0,11,0%,5.45
+Malawi,0,11,0%,7.82
+Mozambique,0,11,0%,13.91
+Laos,0,11,0%,19.27
+Namibia,0,10,0%,4.8
+Madagascar,0,10,0%,7.6
+Botswana,0,10,0%,9.4
+Fiji,0,9,0%,7.56
+Bermuda,0,9,0%,8.11
+Guyana,0,8,0%,6.88
+Togo,0,8,0%,8.88
+Curaçao,0,8,0%,10.25
+Sierra Leone,0,8,0%,11.5
+Rwanda,0,8,0%,18
+Somalia,0,8,0%,20.38
+Cuba,0,7,0%,11.86
+Benin,0,7,0%,16.29
+Réunion,0,7,0%,19.43
+Antigua & Barbuda,0,6,0%,5.33
+St. Lucia,0,6,0%,5.67
+Bhutan,0,6,0%,6.5
+Congo - Kinshasa,0,6,0%,6.83
+St. Kitts & Nevis,0,6,0%,9.17
+Cameroon,0,6,0%,18
+Guadeloupe,0,5,0%,3.8
+Turkmenistan,0,5,0%,5.8
+Grenada,0,5,0%,28.6
+Aruba,0,4,0%,3.75
+Cook Islands,0,4,0%,5.25
+Gabon,0,4,0%,7.5
+St. Vincent & Grenadines,0,4,0%,8
+South Sudan,0,3,0%,4
+Liberia,0,3,0%,4.67
+Papua New Guinea,0,3,0%,5.67
+New Caledonia,0,3,0%,8
+Haiti,0,3,0%,8.33
+Dominica,0,3,0%,11.33
+Suriname,0,3,0%,12.33
+Mali,0,2,0%,3.5
+Palau,0,2,0%,5
+Åland Islands,0,2,0%,5.5
+Congo - Brazzaville,0,2,0%,6.5
+Turks & Caicos Islands,0,2,0%,6.5
+Lesotho,0,2,0%,7
+Niger,0,2,0%,8
+Burkina Faso,0,2,0%,8.5
+Martinique,0,2,0%,9
+Afghanistan,0,2,0%,11
+Yemen,0,2,0%,36
+Swaziland,0,2,0%,44.5
+Western Sahara,0,2,0%,68.5
+São Tomé & Príncipe,0,1,0%,1
+Micronesia,0,1,0%,2
+Vanuatu,0,1,0%,2
+Gambia,0,1,0%,3
+Anguilla,0,1,0%,4
+Djibouti,0,1,0%,4
+Guinea,0,1,0%,4
+Marshall Islands,0,1,0%,4
+Caribbean Netherlands,0,1,0%,6
+St. Barthélemy,0,1,0%,6
+French Polynesia,0,1,0%,6
+Greenland,0,1,0%,9
+Sudan,0,1,0%,9
+Sint Maarten,0,1,0%,9
+Tajikistan,0,1,0%,9
+British Virgin Islands,0,1,0%,9
+Faroe Islands,0,1,0%,10
+Burundi,0,1,0%,13
