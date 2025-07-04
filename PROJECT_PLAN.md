@@ -10,8 +10,24 @@
 
 ## 2. Identify Content Gaps & Opportunities
 - [x] Compare website content with research materials, look for things that conflict with the facts found previously (see `facts.md`)
-- [ ] List missing or outdated topics (e.g., visitor info, history, FAQs, search performance)
-- [ ] Make an erreta or error correction document (`erreta.md`)
+- [x] List missing or outdated topics (see below)
+- [x] Make an erreta or error correction document (`erreta.md`)
+
+### Missing or Outdated Topics (to address in content update)
+- Accessibility information (wheelchair access, etc.)
+- Up-to-date ticket prices and categories (2025)
+- Updated opening hours (seasonal, holidays)
+- Environmental/ecosystem protection rules (e.g., swimming prohibition)
+- Facilities (café, toilets, parking)
+- Public transport and taxi details
+- Updated visitor tips (best time, clothing, crowd avoidance)
+- New research/archaeological findings
+- SEO/search performance insights
+- Media and photo guidance
+- Local area attractions and combinations
+- Official/unofficial status of the website
+
+<!-- Add more as found during content creation -->
 
 ## 3. Plan Website Structure & Features
 - [ ] Outline improved site structure (pages, navigation)
