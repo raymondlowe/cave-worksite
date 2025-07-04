@@ -6,11 +6,12 @@
 - [ ] Review all files in the `research` folder for relevant information
 
 > NOTE: After each step, commit changes to git before proceeding. (Added as a reminder.)
+> NOTE: Facts and gap analysis are tracked in `facts.md` and `erreta.md`.
 
 ## 2. Identify Content Gaps & Opportunities
-- [ ] Compare website content with research materials, look for things that conflict with the facts found previously
+- [x] Compare website content with research materials, look for things that conflict with the facts found previously (see `facts.md`)
 - [ ] List missing or outdated topics (e.g., visitor info, history, FAQs, search performance)
-- [ ] Make an erreta or error correction document
+- [ ] Make an erreta or error correction document (`erreta.md`)
 
 ## 3. Plan Website Structure & Features
 - [ ] Outline improved site structure (pages, navigation)
