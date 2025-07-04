@@ -22,4 +22,4 @@ This document lists conflicts, outdated information, and corrections identified 
 - W009 vs F022: Water source (sinkholes at Katavothres) is confirmed, with research adding details about brackish water composition. [history.html, faq.txt]
 - W010/W015/W016: Archaeological finds and stalactite formation are confirmed and expanded by research. [history.html, faq.txt]
 
-<!-- Add more corrections/conflicts as found -->
+<!-- Add more corrections/conflicts as found. Always reference the source (e.g., research document, web search, or site) for each correction. -->

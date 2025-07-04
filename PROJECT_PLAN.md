@@ -7,6 +7,7 @@
 
 > NOTE: After each step, commit changes to git before proceeding. (Added as a reminder.)
 > NOTE: Facts and gap analysis are tracked in `facts.md` and `erreta.md`.
+> NOTE: Always reference the source of knowledge (research document, web search, or site) for each correction or fact.
 
 ## 2. Identify Content Gaps & Opportunities
 - [x] Compare website content with research materials, look for things that conflict with the facts found previously (see `facts.md`)
