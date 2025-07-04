@@ -5,6 +5,8 @@
 - [ ] Make a list of "facts" as a stand alone markdown file  which the website has; these might be wrong or outdated. Define at the top of the file, then use, a formal syntax for facts.
 - [ ] Review all files in the `research` folder for relevant information
 
+> NOTE: After each step, commit changes to git before proceeding. (Added as a reminder.)
+
 ## 2. Identify Content Gaps & Opportunities
 - [ ] Compare website content with research materials, look for things that conflict with the facts found previously
 - [ ] List missing or outdated topics (e.g., visitor info, history, FAQs, search performance)
