@@ -77,11 +77,11 @@
 <!-- Add more as needed during content creation -->
 
 ## 4. Content Creation & Update
-- [ ] Draft new/updated content for each page using research files:
-  - [ ] Visitor information (from `Melissani Cave, Kefalonia_ The Complete Visitor’s.md`)
-  - [ ] FAQs (from `faq.txt`)
-  - [ ] Timeline/history (from `timeline.txt`)
-  - [ ] Research insights (from `briefing.txt`, `studyguide.txt`, `scira.txt`, `deepseek.txt`)
+- [x] Draft new/updated content for each page using research files:
+  - [x] Visitor information (from `Melissani Cave, Kefalonia_ The Complete Visitor’s.md`)
+  - [x] FAQs (from `faq.txt`)
+  - [x] Timeline/history (from `timeline.txt` and research)
+  - [x] Research insights (from `briefing.txt`, `studyguide.txt`, `scira.txt`, `deepseek.txt`)
   - [ ] Analytics/SEO (from `https___www.melissani-cave.com_-Performance-on-Search-2025-07-04/`)
 - [ ] Fact-check and supplement with additional web research as needed. Use Web Search for Copilot to check facts.
 
