@@ -31,8 +31,50 @@
 <!-- Add more as found during content creation -->
 
 ## 3. Plan Website Structure & Features
-- [ ] Outline improved site structure (pages, navigation)
-- [ ] Decide on new sections/features (e.g., updated FAQ, timeline, analytics, media)
+
+### Proposed Site Structure (2025 Update)
+
+- Home (index.html)
+- About (about.html)
+- Visitor Information (visitor-info.html)
+  - Opening Hours & Fees
+  - Accessibility (wheelchair, mobility, etc.)
+  - Facilities (café, toilets, parking)
+  - Visitor Tips (best time, clothing, crowd avoidance)
+- How to Get There (how-to-get-to.html)
+  - By car, bus, taxi, tours
+- History & Myth (history.html)
+  - Timeline
+  - Archaeological findings
+  - Mythology (Nymph Melissanthi, Pan)
+- The Cave Experience (cave.html)
+  - Boat tour details
+  - Lake & geology
+  - Environmental/ecosystem protection (swimming prohibition, rules)
+- FAQs (faq.html)
+- Media & Photos (media.html)
+  - Photo guidance, best times for photos
+- Local Area & Attractions (sightseeing.html)
+  - Combinations with other sites (Drogarati Cave, Myrtos Beach, etc.)
+- Analytics & SEO Insights (analytics.html)
+- Contact (contact.html)
+- Privacy Policy, Copyright, Credits
+
+### New/Improved Features
+- Accessibility information section (source: research, web best practices)
+- Up-to-date ticket prices, opening hours, and categories (source: research/faq.txt, Melissani Cave, Kefalonia_ The Complete Visitor’s.md)
+- Environmental/ecosystem protection rules (source: research/faq.txt)
+- Facilities and transport details (source: research/faq.txt)
+- Updated visitor tips (source: research/faq.txt)
+- New research/archaeological findings (source: research/history, Melissani Cave, Kefalonia_ The Complete Visitor’s.md)
+- SEO/search performance insights (source: research/analytics)
+- Media and photo guidance (source: research, web best practices)
+- Local area attractions and combinations (source: research, web best practices)
+- Official/unofficial status of the website (source: about.html)
+
+> NOTE: All structure and feature decisions are based on research documents and up-to-date sources. See facts.md for fact references.
+
+<!-- Add more as needed during content creation -->
 
 ## 4. Content Creation & Update
 - [ ] Draft new/updated content for each page using research files:
