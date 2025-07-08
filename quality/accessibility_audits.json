@@ -1,0 +1,13 @@
+{
+  "last_audit": "",
+  "results": {
+    "errors": [],
+    "warnings": [],
+    "notices": []
+  },
+  "compliance": {
+    "wcag_level": "",
+    "score": 0,
+    "passing": false
+  }
+}

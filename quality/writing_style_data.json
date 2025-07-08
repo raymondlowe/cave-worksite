@@ -1,0 +1,299 @@
+{
+  "reviews": {
+    "map.html": {
+      "status": "pass",
+      "issues": [],
+      "comments": "Complete rewrite following style guide. Added location details, interactive maps, nearby attractions and engagement elements.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Expanded from placeholder to full guide with SEO elements",
+          "status_change": "empty → pass"
+        }
+      ]
+    },
+    "index.html": {
+      "status": "pass",
+      "issues": [],
+      "comments": "Improved title, added meta description, enhanced main content with commercial hooks and standardized tone",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "SEO optimization and content improvements",
+          "status_change": "empty → pass"
+        }
+      ]
+    },
+    "about.html": {
+      "status": "pass",
+      "issues": [],
+      "comments": "Complete rewrite with improved structure, verified historical facts, SEO optimization, and commercial context. Added schema markup and engagement elements.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Full content overhaul with SEO and engagement improvements",
+          "status_change": "empty → pass"
+        }
+      ]
+    },
+    "visitor-info.html": {
+      "status": "pass",
+      "issues": [],
+      "comments": "Enhanced with SEO optimization, commercial partnerships, and improved structure. Added 'how to' keywords, booking references, and local business links. Improved content organization and readability.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "SEO optimization, commercial enhancements, content improvements",
+          "status_change": "empty → pass"
+        }
+      ]
+    },
+    "history.html": {
+      "status": "pass",
+      "issues": [],
+      "comments": "Well-structured historical content with verified facts and proper terminology. Includes archaeological references and timeline. Could benefit from more sensory descriptions.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial review - meets standards",
+          "status_change": "empty → pass"
+        }
+      ]
+    },
+    "how-to-get-to.html": {
+      "status": "pass",
+      "issues": [],
+      "comments": "Comprehensive transportation guide with updated 2025 pricing and schedules. Excellent practical information with commercial references. Well-structured with clear sections.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial review - meets standards",
+          "status_change": "empty → pass"
+        }
+      ]
+    },
+    "media.html": {
+      "status": "pass",
+      "issues": [],
+      "comments": "Clear photography guidelines and press information. Well-organized with commercial use policy. Modern design compared to other pages. Could integrate more with main site template.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial review - meets standards",
+          "status_change": "empty → pass"
+        }
+      ]
+    },
+    "sightseeing.html": {
+      "status": "pass",
+      "issues": [],
+      "comments": "Excellent local recommendations and itinerary suggestions. Good balance of practical and engaging content. Includes commercial references naturally. Could add more mythological connections.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial review - meets standards",
+          "status_change": "empty → pass"
+        }
+      ]
+    },
+    "analytics.html": {
+      "status": "needs_work",
+      "issues": [
+        "Missing Google Analytics/GTM implementation",
+        "No event tracking for key user actions",
+        "Lacks conversion tracking setup",
+        "No data layer implementation",
+        "Performance metrics not connected to actual analytics",
+        "Privacy compliance not verified"
+      ],
+      "comments": "Page displays metrics but lacks actual tracking implementation. Requires technical implementation review and analytics setup.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial technical implementation review completed",
+          "status_change": "unchecked → needs_work"
+        }
+      ]
+    },
+    "beach.html": {
+      "status": "needs_work",
+      "issues": [
+        "Content too brief (150 words vs 600+ target)",
+        "Missing key sections (hook, local insights, call to engagement)",
+        "Lacks sensory descriptions",
+        "No commercial hooks or SEO elements",
+        "Typo in heading ('Beachs')",
+        "Structure differs from cave.html"
+      ],
+      "comments": "Requires significant expansion to meet style guide standards. Needs more engaging content, commercial hooks, and better structure.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial writing style review completed",
+          "status_change": "unchecked → needs_work"
+        }
+      ]
+    },
+    "cave.html": {
+      "status": "pass",
+      "issues": [
+        "Could enhance with more engaging descriptions",
+        "Missing commercial hooks for tours/gear",
+        "No schema markup for tours"
+      ],
+      "comments": "Well-structured factual content with verified geological information. Follows style guide but could benefit from more engaging language and commercial opportunities. Visitor guidelines are clear and comprehensive.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial writing style review completed",
+          "status_change": "unchecked → pass"
+        }
+      ]
+    },
+    "contact.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "credits.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "faq.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "fees.html": {
+      "status": "pass",
+      "issues": [
+        "Mobile readability could be improved (fixed-width tables)",
+        "Missing explicit refund policy",
+        "Could better highlight preservation purpose of fees"
+      ],
+      "comments": "Clear pricing structure with good transparency. Well-organized sections and value communication. Could enhance mobile experience and add refund policy details.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial compliance and visitor experience review",
+          "status_change": "unchecked → pass"
+        }
+      ]
+    },
+    "foods.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "nightlife.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "opening-hours.html": {
+      "status": "pass",
+      "issues": [
+        "Missing explicit holiday schedule",
+        "Timezone not specified",
+        "Emergency closure procedure not detailed",
+        "Could better highlight peak/off-peak differences"
+      ],
+      "comments": "Clear seasonal variation presentation with verified 2025 hours. Includes last admission timing and weather contingencies. Could enhance with timezone specification and more detailed holiday/emergency information.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial operational accuracy and presentation review",
+          "status_change": "unchecked → pass"
+        }
+      ]
+    },
+    "privacy-policy.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "research.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "shopping.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "staying-here.html": {
+      "status": "needs_work",
+      "issues": [
+        "Lacks strong conversion-focused language",
+        "Minimal visual storytelling (only one image)",
+        "No embedded booking options",
+        "Mobile formatting needs improvement",
+        "Missing upsell opportunities for tours/activities",
+        "Could enhance benefit-oriented descriptions"
+      ],
+      "comments": "Accommodation listings are complete but could be more conversion-focused. Needs commercial enhancements and better mobile presentation.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial writing style review completed",
+          "status_change": "unchecked → needs_work"
+        }
+      ]
+    },
+    "timeline.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "weather.html": {
+      "status": "unchecked",
+      "issues": [],
+      "comments": "",
+      "history": []
+    },
+    "what-to-wear.html": {
+      "status": "needs_work",
+      "issues": [
+        "Missing detailed seasonal clothing recommendations",
+        "Incomplete safety considerations (terrain, sun, water, emergency)",
+        "No accessory suggestions beyond sun protection",
+        "Lacks weather contingency specifics",
+        "Could better highlight commercial opportunities (gear rentals)"
+      ],
+      "comments": "Provides good basic guidance but needs expansion for seasonal variations and safety. Should add emergency preparedness and commercial hooks.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "reviewer": "content-bot",
+          "changes": "Initial writing style review completed",
+          "status_change": "unchecked → needs_work"
+        }
+      ]
+    }
+  }
+}
