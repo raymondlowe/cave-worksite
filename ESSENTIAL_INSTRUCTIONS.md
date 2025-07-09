@@ -12,6 +12,7 @@
 
 ## Workflow Rules
 - Use version control for all changes (Git)
+  - For submodules: Always commit changes inside the submodule directory first, then update the submodule pointer in the parent repository by running `git add <submodule-dir>` and committing in the parent repo. Never add or commit submodule files directly from the parent repo.
 - Document all modifications in CHANGELOG.md (Markdown format)
 - Complete peer review before finalizing
 
