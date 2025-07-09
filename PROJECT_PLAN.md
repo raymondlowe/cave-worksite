@@ -10,6 +10,8 @@ Any other Roo Modes shoulld switch to Roo Orchestrator to initiate subtasks.
 
 When creating sub tasks for agents that will edit content always tell them to refer to writing_style_guide.md
 
+When editing content particularly if expanding refer to reports in research folder for factual information, don't make things up, find actual references
+
 ### Enhanced Strategy Components:
 1. **Authority & Trust**: Comprehensive, accurate, and well-researched content with built-in version control
 2. **Content Strategy**: High-intent topics with research repository integration from start
@@ -19,7 +21,7 @@ When creating sub tasks for agents that will edit content always tell them to re
 ## 1. Research & Content Strategy (Enhanced)
 
 ### Research Repository Implementation
-- [ ] Establish centralized research repository in `/research` with standardized formats
+- [x] Establish centralized research repository in `/research` with standardized formats 
 - [ ] Implement version control for annual content updates
 - [ ] Create content audit checklist (see `facts.md` and `erreta.md` templates)
 
