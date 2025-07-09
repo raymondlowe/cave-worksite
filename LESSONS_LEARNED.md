@@ -11,11 +11,12 @@
 - Comprehensive topic coverage (history, visitor info, research) improved SEO
 - FAQ section reduced support inquiries
 - Timeline and research sections added credibility
-- Multiple language support would be beneficial future addition
+- Multiple language support would be a beneficial future addition
 - Consistent navigation structure improved usability
 
 ## Workflow Efficiency
 - Git version control enabled effective collaboration
+  - For submodules: Always commit and push changes inside the submodule first, then update the submodule pointer in the parent repository. Do not add or commit submodule files from the parent repo.
 - Documentation (PROJECT_PLAN.md, writing_style_guide.md) maintained consistency
 - Automated tools (remove_html.py) helped with maintenance
 - Separate research directory kept reference materials organized
