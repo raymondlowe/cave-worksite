@@ -4,6 +4,8 @@
 # MUST COMPLETE ALL FILES LISTED BELOW BEFORE MARKING AS DONE
 #
 # 0. CHeck ESSENTIALS_INSTRUCTIONS.md for project overview and guidelines
+# - ONLY ROO ORCHESTRATOR IS ALLOWED TO RUN THIS PROJECT
+# - Any other Roo Modes should switch to Roo Orchestrator to initiate subtasks.
 #
 # 1. FILE PROCESSING WORKFLOW:
 #    - Each file listed below goes through multiple review steps
@@ -14,11 +16,16 @@
 #    a) Writing Style Review (quality/writing_style_review_sop.md)
 #    b) SEO Review (quality/seo_review_sop.md)
 #    c) AdSense Review (quality/adsense_review_sop.md)
-
 #
-# 3. ERROR RECOVERY:
-#    - For failed tasks steps: Fix issues and restart that step
-#    - For validation errors: See quality/*_review_sop.md
+# 3. EDITING AND FIXING:
+#    - Edit files to fix issues found in reviews
+#    - Use writing style guidelines to improve content
+#    - Use SEO best practises to optimize content
+#    - Use AdSense best practises to ensure compliance
+#    - When creating sub tasks for agents that will edit content always tell them to refer to writing_style_guide.md
+#    - BE VERBOSE, USE FULL SENTENCES AND PARAGRAPHS, DON'T USE BULLETS OR LISTS
+#    - Use the provided SOPs for each edit or fix step
+#    - Git commit changes after each change to a file saying why it was changed
 #
 # 4. COMPLETION:
 #    - Move completed files to DONE.yaml
@@ -39,9 +46,6 @@
 
 
 files:
-  - melissani-cave.com/about.html
-  - melissani-cave.com/beach.html
-  - melissani-cave.com/cave.html
   - melissani-cave.com/contact.html
   - melissani-cave.com/credits.html
   - melissani-cave.com/faq.html
