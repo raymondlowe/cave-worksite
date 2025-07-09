@@ -84,6 +84,22 @@ Use `pwd` to check the current directory before using `cd`.
 - Communicate submodule updates to your team to avoid conflicts.
 - Use `git submodule update --init --recursive` after cloning or pulling to ensure submodules are up to date.
 
+## Submodule Update Tool (Recommended)
+
+To avoid mistakes, always use the provided `update_submodule.sh` script for submodule changes:
+
+1. Make your edits in the submodule directory (e.g., `melissani-cave.com`).
+2. Run:
+   ```bash
+   ./update_submodule.sh melissani-cave.com "Describe your change"
+   ```
+3. This will:
+   - Commit and push changes in the submodule
+   - Update the submodule pointer in the parent repo
+   - Commit and push the parent repo
+
+**Do not manually commit submodule changes—use the script for every submodule update.**
+
 ## Dreamweaver Template (.dwt) Files
 
 Dreamweaver template files (`.dwt`) are used to define the shared structure for many HTML pages, such as headers, footers, and navigation. They are different from ordinary content HTML files:
