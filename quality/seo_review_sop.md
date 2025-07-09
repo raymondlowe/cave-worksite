@@ -40,31 +40,10 @@
 
 ## SEO Review Process
 
-### Pre-review Preparation
-1. Gather YouTube/Google Analytics data
-2. Identify competitor URLs
-3. Set performance benchmarks
-4. Note: Focus on video content performance
-
-### Analysis Workflow
-1. **First Pass**: Individual topic clustering
-2. **Team Sync**: Intent classification
-3. **Resolution**:
-   - Minor: Content tweaks
-   - Major: Content restructuring
-4. **Sign-off**: SEO Lead approval
-
-### Review Cycle
-1. Monthly audits
-2. Trend analysis
-3. Content calendar updates
-
-## Analysis Methodology
-
 ### Topic Identification
-- Cluster videos by content themes
-- Map to search query patterns
-- Identify content gaps
+- Cluster by content themes, use csv as source as well as genera knowledge
+- Map to search query patterns seen in csv files
+- Identify content gaps between actual content and themes that are queried
 
 ### User Intent Analysis
 ```yaml
@@ -91,61 +70,11 @@ keywords:
     position: 7.8
 ```
 
-### Competitive Analysis
-```yaml
-competitors:
-  - url: "example.com/melissani-cave"
-    content_score: 85
-    backlinks: 120
-    video_count: 6
-```
+### Actions / Edit / Fix
 
-## Tracking Structure
-
-```yaml
-seo_review:
-  content:
-    topics: 
-      - beach
-      - cave 
-      - tourism
-    intent_breakdown:
-      informational: 45%
-      navigational: 30%
-      commercial: 25%
-  
-  performance:
-    - metric: avg_position
-      target: ≤3
-      current: 4.2
-    - metric: ctr
-      target: ≥3.5%
-      current: 2.8%
-
-  buyer_journey:
-    awareness:
-      - content_types: [blog_posts, videos]
-        keywords: [facts, history]
-    consideration: 
-      - content_types: [comparisons, testimonials]
-        keywords: [best tour, prices]
-    decision:
-      - content_types: [booking, packages]
-        keywords: [deal, discount]
-```
-
-## Integration Points
-
-1. **Data Sources**:
-   - YouTube Analytics API
-   - Google Search Console
-   - SEMrush/Searchmetrics
-
-2. **Automated Checks**:
-   - Position tracking
-   - Competitor alerts
-   - Content freshness
-
-3. **Version Control**:
-   - Pre-commit: SEO checklist
-   - Post-commit: Performance monitoring
+  - After identifying gaps brainstorm ways to enhance existing material or fill in
+  with new material.
+  - Don't just talk about it, actually edit the content of the pages
+  - Create new pages if necessary based on template (`cp inside.dwt newpage.html`)
+      - Use the writing style guidelines to ensure consistency
+      BE VERBOSE, USE FULL SENTENCES AND PARAGRAPHS, DON'T USE BULLETS OR LISTS
