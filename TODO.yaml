@@ -22,8 +22,16 @@
 #    - Move completed files to DONE.yaml
 #    - Update PROJECT_PLAN.md with progress
 #    - Document lessons in LESSONS_LEARNED.md
-#    - MUST NOT DO attemp_completion UNTIL THE FILES LIST IS EMPTY
+#    - MUST NOT DO attempt_completion UNTIL THE FILES LIST IS EMPTY
 #
+# 5. WORK METHODOLOGY:
+#    - Maintain consistent methodology throughout the project
+#    - Only edit this file to remove completed files from the list
+#    - Process only the files listed in this document
+#    - Focus exclusively on sequential file processing without deviation
+#    - Complete all file processing before final project completion
+#    - Keep documentation simple - use only this single-level YAML structure
+
 # =======================================
 
 
