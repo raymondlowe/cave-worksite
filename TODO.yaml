@@ -1,0 +1,44 @@
+instructions:
+  - Start by looking at ESSENTIAL_INSTRUCTIONS.md
+  - For each file in this files list
+    - Do the appropriate things, including but not limited to:
+      - Check the status in the writing_style_data.json
+        - If not available then do the review following the writing_style_review sop
+      - Check the status in the SEO_review_data.json
+        - If not available then do the review following the SEO review sop
+      - Check the status in the facts_check_review_data.json if available
+        - If not available then do the review following the facts check review sop
+    - When complete delete the filename from this file and add it to the DONE.md
+  - KEEP GOING UNTIL ALL FILES ARE PROCESSED.  Do NOT attempt completion of the orchastrator task until all files listed in TODO.yaml have been processed and removed.
+
+files:
+  - melissani-cave.com/403.shtml
+  - melissani-cave.com/404.shtml
+  - melissani-cave.com/500.shtml
+  - melissani-cave.com/about.html
+  - melissani-cave.com/analytics.html
+  - melissani-cave.com/beach.html
+  - melissani-cave.com/cave.html
+  - melissani-cave.com/contact.html
+  - melissani-cave.com/copyright.html
+  - melissani-cave.com/credits.html
+  - melissani-cave.com/faq.html
+  - melissani-cave.com/fees.html
+  - melissani-cave.com/foods.html
+  - melissani-cave.com/history.html
+  - melissani-cave.com/how-to-get-to.html
+  - melissani-cave.com/index.html
+  - melissani-cave.com/inside.dwt
+  - melissani-cave.com/map.html
+  - melissani-cave.com/media.html
+  - melissani-cave.com/nightlife.html
+  - melissani-cave.com/opening-hours.html
+  - melissani-cave.com/privacy-policy.html
+  - melissani-cave.com/research.html
+  - melissani-cave.com/shopping.html
+  - melissani-cave.com/sightseeing.html
+  - melissani-cave.com/staying-here.html
+  - melissani-cave.com/timeline.html
+  - melissani-cave.com/visitor-info.html
+  - melissani-cave.com/weather.html
+  - melissani-cave.com/what-to-wear.html

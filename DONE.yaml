@@ -1,0 +1,6 @@
+instructions:
+  - Add files to this list when removing them from TODO.yaml
+  - It is ok to move files back to TODO if a new overall instruction is received and the done files are not done from this new perspective
+  - Keep working until all files have been moved from TODO.yaml to DONE.yaml
+
+files:
