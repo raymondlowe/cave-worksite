@@ -27,6 +27,9 @@
 #    - Use the provided SOPs for each edit or fix step
 #    - When editing content particularly if expanding refer to reports in research folder for factual information, don't make things up, find actual references
 #    - Git commit changes after each change to a file saying why it was changed
+# - You CANNOT CHANGE CONTENT OUTSIDE OF THE EDITABLE REGIONS - it will just be overwritten!
+#    - Do not try to do any edits to .html files outside of the EditableRegion areas!
+#    - You can't make this site fully responsive, just don't try!
 #
 # 4. COMPLETION:
 #    - Move completed files to DONE.yaml
@@ -47,20 +50,6 @@
 
 
 files:
-  - melissani-cave.com/faq.html
-  - melissani-cave.com/fees.html
-  - melissani-cave.com/foods.html
-  - melissani-cave.com/history.html
-  - melissani-cave.com/how-to-get-to.html
-  - melissani-cave.com/index.html
-  - melissani-cave.com/inside.dwt
-  - melissani-cave.com/map.html
-  - melissani-cave.com/media.html
-  - melissani-cave.com/nightlife.html
-  - melissani-cave.com/opening-hours.html
-  - melissani-cave.com/research.html
-  - melissani-cave.com/shopping.html
-  - melissani-cave.com/sightseeing.html
   - melissani-cave.com/staying-here.html
   - melissani-cave.com/timeline.html
   - melissani-cave.com/visitor-info.html

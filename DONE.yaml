@@ -16,5 +16,100 @@ files:
     review_types: [writing_style, seo, adsense]
   - filename: melissani-cave.com/credits.html
     date_completed: 2025-07-09
-    commit_hash:
+    commit_hash: 456c825
     review_types: [writing_style, seo, adsense]
+  - filename: melissani-cave.com/faq.html
+    date_completed: 2025-07-09
+    commit_hash: 3f2824f
+    review_types: [writing_style, seo, adsense]
+  - filename: melissani-cave.com/fees.html
+    date_completed: 2025-07-09
+    commit_hash: 2b998fd
+    review_types: [writing_style, seo, adsense]
+  - filename: melissani-cave.com/foods.html
+    date_completed: 2025-07-09
+    commit_hash: cea9b17
+    review_types: [writing_style, seo, adsense]
+    changes_made: [content expansion, SEO optimizations, ad placements]
+
+- melissani-cave.com/history.html
+
+- melissani-cave.com/how-to-get-to.html
+
+- melissani-cave.com/index.html
+- filename: melissani-cave.com/nightlife.html
+  date_completed: 2025-07-09
+  commit_hash: 896677c5d7be80b319e6a030e6cc305a7937ea7d
+  review_types: [writing_style, seo, adsense]
+  changes_made: [safety info added, local experiences highlighted, schema markup]
+  submodule: true
+- filename: melissani-cave.com/media.html
+  date_completed: 2025-07-09
+  commit_hash: [awaiting terminal output]
+  review_types: [writing_style, seo, adsense]
+  changes_made: [media optimization, schema markup, engagement elements]
+- filename: melissani-cave.com/map.html
+  date_completed: 2025-07-09
+  commit_hash: [awaiting terminal output]
+  review_types: [writing_style, seo, adsense]
+  changes_made: [map functionality preservation, SEO optimizations, structured data]
+- filename: melissani-cave.com/inside.dwt
+  date_completed: 2025-07-09
+  commit_hash: [awaiting terminal output]
+  review_types: [writing_style, seo, adsense]
+  changes_made: [template preservation, content expansion, structured data, mobile optimization]
+- filename: melissani-cave.com/opening-hours.html
+  date_completed: 2025-07-09
+  commit_hash: [awaiting terminal output]
+  review_types: [writing_style, seo, adsense]
+  changes_made: [content expansion, SEO optimizations, ad placements]
+  review_findings:
+    writing_style:
+      - Needs enhanced sensory descriptions
+      - Should expand word count (~400 vs 600+ target)
+      - Requires stronger call to engagement
+      - Needs myth/history context expansion
+    seo:
+      - Requires keyword optimization
+      - Needs meta tag improvements
+      - Should enhance internal linking
+      - Could improve content structure
+    adsense:
+      - Performing well ($97.90 revenue)
+      - Could benefit from content expansion
+      - No policy violations found
+  action_items:
+    - Expand content with sensory descriptions
+    - Increase word count to 600+
+    - Add myth/history context
+    - Optimize keywords and meta tags
+    - Improve internal linking
+    - Maintain current AdSense performance
+
+- filename: melissani-cave.com/research.html
+  date_completed: 2025-07-09
+  commit_hash: [awaiting terminal output]
+  review_types: [writing_style, seo, adsense]
+  changes_made: [content expansion, SEO optimizations, ad placements]
+
+- filename: melissani-cave.com/shopping.html
+  date_completed: 2025-07-09
+  review_types: [writing_style, seo, adsense]
+
+- filename: melissani-cave.com/sightseeing.html
+  date_completed: 2025-07-09
+  review_types: [writing_style, seo, adsense]
+  changes_made: [content expansion, SEO optimizations, ad compliance verification]
+  review_findings:
+    writing_style:
+      - Added sensory descriptions
+      - Incorporated mythological/historical context
+      - Updated transportation details
+    seo:
+      - Enhanced title tag
+      - Added meta description
+      - Improved keyword integration
+    adsense:
+      - Verified script implementation
+      - Confirmed content suitability
+      - Validated word count requirements

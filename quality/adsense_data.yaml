@@ -18,3 +18,18 @@ copyright.html:
     - Should remove AdSense script completely
     - No monetization opportunities on copyright content
     - Focus should be on clear legal communication
+
+research.html:
+  status: reviewed
+  suitability: conditional
+  notes:
+    - Current word count (~450) below optimal (1500+ recommended)
+    - Could benefit from:
+      - Expanded tour operator partnerships section
+      - More visitor tips/gear recommendations
+      - Additional cave research findings
+    - Currently not in top revenue pages (GA4 data)
+    - Consider adding:
+      - Equipment rental affiliate links
+      - Local accommodation recommendations
+      - Tour package comparisons

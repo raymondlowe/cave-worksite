@@ -48,6 +48,7 @@ EXAMPLE OUTPUT:
     - That is between <!-- #BeginEditable "doctitle" --> and <!-- #EndEditable --> and between <!-- #BeginEditable "body" --> and <!-- #EndEditable -->  
   - Uneditable regions, which is everything else, comes from the template file `inside.dwt` and is out of scope
 
+   - Do not add or change adsense units, rely only upon AutoAds
 
 ## ACTION / EDIT / FIX
 
@@ -55,3 +56,7 @@ EXAMPLE OUTPUT:
 - Create new pages if necessary based on template (`cp inside.dwt newpage.html`)
     - Use the writing style guidelines to ensure consistency
     BE VERBOSE, USE FULL SENTENCES AND PARAGRAPHS, DON'T USE BULLETS OR LISTS
+
+   - You CANNOT CHANGE CONTENT OUTSIDE OF THE EDITABLE REGIONS - it will just be overwritten!
+   - Do not try to do any edits to .html files outside of the EditableRegion areas!
+   - You can't make this site fully responsive, just don't try!

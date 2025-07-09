@@ -23,3 +23,17 @@ copyright.html:
       - "Website content permissions"
     - Add structured data for copyright notice
     - Link to DMCA policy page
+research.html:
+  status: reviewed
+  changes_made:
+    - Added detailed ticket pricing information
+    - Clarified seasonal opening hours
+    - Expanded tour options section
+    - Incorporated high-value keywords:
+      - "melissani cave tickets"
+      - "melissani cave opening times" 
+      - "melissani cave tour"
+      - "kefalonia cave tour"
+    - Enhanced title with location
+    - Added structured visitor information
+  next_review_date: 2025-10-01

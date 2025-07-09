@@ -17,6 +17,13 @@
 
 ## Quality Review Framework
 
+SEO targets Google in 2025 - ignore outdated concepts and advice such as metatags, schemas, keyword densities and reliance on H1 and title tags. While these should be used they are now baseline or less in significance. In 2025, top SEO trends revolve around AI, user experience, and content quality. AI-powered tools are transforming content creation and optimization, while user experience is paramount, with Core Web Vitals and mobile-friendliness being crucial. Focus on E-E-A-T (Expertise, Authoritativeness, Trustworthiness) and creating high-quality, engaging content that aligns with search intent is also essential. 
+
+Content Quality and Search Intent:
+Focus on creating high-quality, in-depth content that provides value to users.
+Understanding search intent (informational, navigational, or transactional) is critical for ranking higher.
+Long-form content, when relevant and well-written, can perform well in search results. 
+
 ### Content Optimization
 - ✅ Meets SEO best practices
 - ❌ Needs improvements
@@ -28,15 +35,13 @@
 - ✅ Compliant items
 - ❌ Non-compliant items
   - Page speed
-  - Mobile responsiveness
+  - Mobile responsiveness ( does not apply to legacy html sites using table layout such as melissani-cave.com which can be identified by looking for `<table border="0"` and similar layout tables)
   - Structured data
 
 ### Competitive Positioning
 - ✅ Outperforms competitors
-- ❌ Lags behind
-  - Content coverage
-  - Backlink profile
-  - Engagement metrics
+- ❌ Lags behind  
+  - Overall can be determined by looking at Google Search Console (see .csv file) to see the `Position` the for general terms relating to the site, particularly the actual site name. If not in first position then a competitor is leading, if position is worse  than 5 then the site is poor, if worse than 10 for its own name then it is very bad.
 
 
 ### Scope

@@ -12,7 +12,7 @@
 
 ## Workflow Rules
 - Use version control for all changes (Git)
-  - For submodules: Always commit changes inside the submodule directory first, then update the submodule pointer in the parent repository by running `git add <submodule-dir>` and committing in the parent repo. Never add or commit submodule files directly from the parent repo.
+  - For submodules: Commit and push changes inside the submodule first, then update the submodule pointer in the parent repo. Never add/commit submodule files from the parent repo. (See GIT_SUBMODULE_SOP.md for details.)
 - Document all modifications in CHANGELOG.md (Markdown format)
 - Complete peer review before finalizing
 
@@ -34,5 +34,16 @@
 - Configuration: Use YAML (.yml) for human-edited configs
 - Documentation: Use Markdown (.md) for all text documents
 - Avoid proprietary formats; prefer open standards
+
+## Dreamweaver Template Advice
+- When editing `.dwt` files (Dreamweaver templates):
+  - Only edit headers, footers, and navigation in the template.
+  - "Editable regions" are placeholders and not meaningful in the template itself—edit page content in the individual HTML files, not the template.
+
+## Dreamweaver Template (.dwt) Files
+- `.dwt` files are templates for site-wide structure (headers, footers, navigation).
+- In `.dwt` files, only edit the parts outside the `<!-- TemplateBeginEditable -->` and `<!-- TemplateEndEditable -->` tags. These are the elements that affect all pages.
+- Editable regions in `.dwt` files are placeholders and not meaningful for content editing.
+- In ordinary HTML files, only the content inside the editable regions is in scope for editing and review.
 
 Reference PROJECT_PLAN.md and LESSONS_LEARNED.md for detailed procedures.

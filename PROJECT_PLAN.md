@@ -65,7 +65,7 @@ When editing content particularly if expanding refer to reports in research fold
 - [ ] Implement automated testing for content updates
 - [ ] Create maintenance scripts (see `remove_html.py`)
 - [ ] Set up git hooks for quality control
-  - For submodules: Ensure hooks and quality checks are run inside submodules as well. Always commit changes in submodules first, then update the submodule pointer in the parent repo. Never add/commit submodule files from the parent repo.
+  - For submodules: Commit and push changes inside the submodule first, then update the submodule pointer in the parent repo. Never add/commit submodule files from the parent repo. (See GIT_SUBMODULE_SOP.md for details.)
 
 ## 4. Implementation Roadmap
 
@@ -110,4 +110,12 @@ All content must:
 4. Support monetization goals
 
 !!! NOTE: Maintain all existing template rules and git practices !!!
-!!! NOTE: For submodules, always follow the correct workflow: commit in the submodule, then update the pointer in the parent repo. Never add/commit submodule files from the parent repo.
+!!! NOTE: For submodules, always commit and push in the submodule first, then update the pointer in the parent repo. Never add/commit submodule files from the parent repo. (See GIT_SUBMODULE_SOP.md)
+
+## Dreamweaver Template (.dwt) Files
+- `.dwt` files define the shared structure for all pages (headers, footers, navigation).
+- In `.dwt` files, only edit the parts outside the `<!-- TemplateBeginEditable -->` and `<!-- TemplateEndEditable -->` tags. These are the site-wide elements.
+- Editable regions in `.dwt` files are placeholders and not meaningful for content editing.
+- In ordinary HTML files, only the content inside the editable regions is in scope for editing and review.
+
+!!! NOTE: For .dwt files, only the non-editable regions are in scope for SOP checks. For HTML files, only the editable regions are in scope.
