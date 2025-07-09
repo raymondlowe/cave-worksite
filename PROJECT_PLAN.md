@@ -4,6 +4,12 @@
 
 The entire point of this project is to EARN MORE MONEY via Google AdSense, everything else is secondary.
 
+ONLY ROO ORCHESTRATOR IS ALLOWED TO RUN THIS PROJECT
+
+Any other Roo Modes shoulld switch to Roo Orchestrator to initiate subtasks.
+
+When creating sub tasks for agents that will edit content always tell them to refer to writing_style_guide.md
+
 ### Enhanced Strategy Components:
 1. **Authority & Trust**: Comprehensive, accurate, and well-researched content with built-in version control
 2. **Content Strategy**: High-intent topics with research repository integration from start
@@ -18,6 +24,8 @@ The entire point of this project is to EARN MORE MONEY via Google AdSense, every
 - [ ] Create content audit checklist (see `facts.md` and `erreta.md` templates)
 
 ### Content Development
+- [x] Processed about.html through full review cycle (writing style, SEO, AdSense)
+- [x] Processed beach.html through full review cycle (writing style, SEO, AdSense)
 - [ ] Build content audit into initial phase (compare with `research/` materials)
 - [ ] Expand FAQ section based on visitor analytics
 - [ ] Develop multilingual content roadmap
@@ -55,6 +63,7 @@ The entire point of this project is to EARN MORE MONEY via Google AdSense, every
 - [ ] Implement automated testing for content updates
 - [ ] Create maintenance scripts (see `remove_html.py`)
 - [ ] Set up git hooks for quality control
+  - For submodules: Ensure hooks and quality checks are run inside submodules as well. Always commit changes in submodules first, then update the submodule pointer in the parent repo. Never add/commit submodule files from the parent repo.
 
 ## 4. Implementation Roadmap
 
@@ -99,4 +108,4 @@ All content must:
 4. Support monetization goals
 
 !!! NOTE: Maintain all existing template rules and git practices !!!
-!!! WARNING: Never trust outdated content - always verify with research !!!
+!!! NOTE: For submodules, always follow the correct workflow: commit in the submodule, then update the pointer in the parent repo. Never add/commit submodule files from the parent repo.
