@@ -65,6 +65,14 @@ reviews:
         status_change: "fail → pass"
 ```
 
+
+
+### Scope
+  - Only written content in the title and content/body sections are in scope
+    - That is between <!-- #BeginEditable "doctitle" --> and <!-- #EndEditable --> and between <!-- #BeginEditable "body" --> and <!-- #EndEditable -->  
+  - Uneditable regions, which is everything else, comes from the template file `inside.dwt` and is out of scope
+
+
 ## Integration Points
 
 1. **Style Guide Links**:

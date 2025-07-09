@@ -42,6 +42,13 @@ EXAMPLE OUTPUT:
    - Metric: Page-level CTR
    - Threshold: Target >1.5% overall CTR
 
+
+### Scope
+  - Only written content in the title and content/body sections are in scope
+    - That is between <!-- #BeginEditable "doctitle" --> and <!-- #EndEditable --> and between <!-- #BeginEditable "body" --> and <!-- #EndEditable -->  
+  - Uneditable regions, which is everything else, comes from the template file `inside.dwt` and is out of scope
+
+
 ## ACTION / EDIT / FIX
 
 - Take actions to fix problems, expand pages, adjust topics, propose new topic clusters, create necessary files
