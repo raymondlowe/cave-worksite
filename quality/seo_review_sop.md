@@ -1,5 +1,20 @@
 # SEO Review Standard Operating Procedure
 
+## Data file
+
+  - research/https___www.melissani-cave.com_-Performance-on-Search-2025-07-04/Pages.csv
+  - research/https___www.melissani-cave.com_-Performance-on-Search-2025-07-04/Queries.csv
+
+  - tool for querying csv files `q`
+    - example usage :
+        q -H -d "," "SELECT [Top queries], Clicks, Impressions, CTR, Position FROM $HOME/cave-worksite/research/https___www.melissani-cave.com_-Performance-on-Search-2025-07-04/Queries.csv WHERE Position > 11 AND Impressions > 500 ORDER BY Impressions DESC LIMIT 5"  # note full sqlite syntax is available in q
+    - example output:
+          μελισσανη,96,5882,1.63%,12.23
+          kefalonia caves,60,5929,1.01%,11.9
+          σπήλαιο μελισσάνησ,41,4142,0.99%,13.21
+          caves in kefalonia,39,2856,1.37%,11.76
+
+
 ## Quality Review Framework
 
 ### Content Optimization

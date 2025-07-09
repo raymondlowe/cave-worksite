@@ -1,5 +1,16 @@
 # AdSense Optimization SOP v2.0
 
+GA4 Datafile: research/GA4-adsense-revenue-per-page.csv
+
+example query
+
+   tail -n +7 GA4-adsense-revenue-per-page.csv | q -H -d "," "SELECT [Landing page + query string], [Total ad revenue] FROM - ORDER BY [Total ad revenue] DESC LIMIT 5"
+
+EXAMPLE OUTPUT:
+
+   tail -n +7 GA4-adsense-revenue-per-page.csv | q -H -d "," "SELECT [Landing page + query string], [Total ad revenue] FROM - ORDER BY [Total ad revenue] DESC"
+
+
 ## Content Optimization
 1. **Top Revenue Pages**
    - Source: GA4 Reports → Monetization → Ad Revenue
@@ -18,15 +29,11 @@
    - Action: Expand content below threshold
 
 2. **Ad Placement**
-   - Current positions:
-     - Header (1 ad unit)
-     - After 2nd paragraph
-     - Sidebar (if applicable)
-   - Optimization: Test moving 2nd ad unit after 4th paragraph
+   - Add placement is automated using AutoAds, do not change
 
 ## Revenue Factors
 1. **Revenue per Page**
-   - Source: GA4 → Pages and Screens → Ad Revenue
+   - Source: GA4 → Pages and Screens → Ad Revenue (see research / GA4-adsense-revenue-per-page.csv)
    - Analysis: Compare top/bottom 10% performers
    - Action: Replicate top performers' structure
 
