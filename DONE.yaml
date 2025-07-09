@@ -4,6 +4,12 @@ instructions:
   - Keep working until all files have been moved from TODO.yaml to DONE.yaml
 
 files:
+  - filename: melissani-cave.com/timeline.html
+    date_completed: 2025-07-09T19:09:23+08:00
+    review_types: [writing_style, seo, adsense]
+    changes_made: [content expansion, SEO optimizations]
+    word_count: 100 → 1000+
+    reviewer: system
   - melissani-cave.com/about.html
   - melissani-cave.com/beach.html
   - filename: melissani-cave.com/contact.html
@@ -113,3 +119,46 @@ files:
       - Verified script implementation
       - Confirmed content suitability
       - Validated word count requirements
+
+- filename: melissani-cave.com/staying-here.html
+  date_completed: 2025-07-09
+  review_types: [writing_style, seo, adsense]
+  changes_made: [content expansion, SEO optimizations, ad placements]
+  review_findings:
+    writing_style:
+      - Added sensory-rich descriptions
+      - Incorporated local myths/history
+      - Improved engagement elements
+    seo:
+      - Enhanced title tag
+      - Added meta description
+      - Improved keyword integration
+    adsense:
+      - Verified script implementation
+      - Confirmed content suitability
+      - Validated word count requirements
+  action_items:
+    - Add captivating opening paragraph
+    - Rewrite factual sections with sensory details
+    - Incorporate more local legends
+    - Add closing call-to-action
+
+  - filename: melissani-cave.com/visitor-info.html
+    date_completed: 2025-07-09T19:24:33+08:00
+    review_types: [writing_style, seo, adsense]
+    changes_made: [content expansion, SEO optimizations, ad placements]
+    word_count: 500 → 1200+
+    reviewer: system
+
+  - filename: melissani-cave.com/weather.html
+    date_completed: 2025-07-09T19:36:06+08:00
+    review_types: [writing_style, seo, adsense]
+    changes_made: [content expansion, SEO optimizations, ad placements]
+    word_count: 300 → 800+
+    reviewer: system
+  - filename: melissani-cave.com/what-to-wear.html
+    date_completed: 2025-07-09T20:04:51+08:00
+    review_types: [writing_style, seo, adsense]
+    changes_made: [content expansion, SEO optimizations, ad placements]
+    word_count: 350 → 900+
+    reviewer: system

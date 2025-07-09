@@ -40,3 +40,21 @@ research.html:
     - Improved readability score by 32%
     - Added natural transitions between sections
     - Enhanced emotional engagement
+
+staying-here.html:
+  status: needs_revision
+  issues:
+    - Missing strong opening hook
+    - Some sections too factual (Athina Hotel description)
+    - Could enhance myth/history weaving
+    - Needs stronger closing engagement
+    - Some terminology could be more vivid
+  recommended_changes:
+    - Add captivating opening paragraph about cave's mythical connection
+    - Rewrite factual sections with more sensory details
+    - Incorporate more local legends and historical context
+    - Add closing call-to-action/question for engagement
+    - Replace generic terms like "beautiful hotel" with more descriptive phrases
+    - Consider adding visitor anecdotes or quotes
+  word_count: 650
+  target_word_count: 700+
