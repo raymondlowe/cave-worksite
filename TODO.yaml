@@ -16,13 +16,13 @@
 #
 # 3. ERROR RECOVERY:
 #    - For failed tasks steps: Fix issues and restart that step
-#    - For needs-input: Address comments and resume with next file
 #    - For validation errors: See quality/*_review_sop.md
 #
 # 4. COMPLETION:
 #    - Move completed files to DONE.yaml
 #    - Update PROJECT_PLAN.md with progress
 #    - Document lessons in LESSONS_LEARNED.md
+#    - MUST NOT DO attemp_completion UNTIL THE FILES LIST IS EMPTY
 #
 # =======================================
 
