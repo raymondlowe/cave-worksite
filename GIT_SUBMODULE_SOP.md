@@ -4,6 +4,8 @@
 
 This project uses git submodules (e.g., `melissani-cave.com`). Please follow these rules to avoid data loss and ensure correct version tracking:
 
+Use `pwd` to check the current directory before using `cd`.
+
 ### 1. Editing Files in a Submodule
 - **Do NOT add or commit files inside a submodule from the parent repository.**
 - Instead, `cd` into the submodule directory and use git commands there:
