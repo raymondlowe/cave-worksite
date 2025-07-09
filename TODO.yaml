@@ -25,6 +25,7 @@
 #    - When creating sub tasks for agents that will edit content always tell them to refer to writing_style_guide.md
 #    - BE VERBOSE, USE FULL SENTENCES AND PARAGRAPHS, DON'T USE BULLETS OR LISTS
 #    - Use the provided SOPs for each edit or fix step
+#    - When editing content particularly if expanding refer to reports in research folder for factual information, don't make things up, find actual references
 #    - Git commit changes after each change to a file saying why it was changed
 #
 # 4. COMPLETION:
@@ -46,7 +47,6 @@
 
 
 files:
-  - melissani-cave.com/contact.html
   - melissani-cave.com/credits.html
   - melissani-cave.com/faq.html
   - melissani-cave.com/fees.html
