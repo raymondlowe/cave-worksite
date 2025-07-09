@@ -1,15 +1,31 @@
-instructions:
-  - Start by looking at ESSENTIAL_INSTRUCTIONS.md
-  - For each file in this files list
-    - Do the appropriate things, including but not limited to:
-      - Check the status in the writing_style_data.json
-        - If not available then do the review following the writing_style_review sop
-      - Check the status in the SEO_review_data.json
-        - If not available then do the review following the SEO review sop
-      - Check the status in the facts_check_review_data.json if available
-        - If not available then do the review following the facts check review sop
-    - When complete delete the filename from this file and add it to the DONE.md
-  - KEEP GOING UNTIL ALL FILES ARE PROCESSED.  Do NOT attempt completion of the orchastrator task until all files listed in TODO.yaml have been processed and removed.
+# TODO.yaml
+# ========== WORK INSTRUCTIONS ==========
+#
+# 0. CHeck ESSENTIALS_INSTRUCTIONS.md for project overview and guidelines
+#
+# 1. FILE PROCESSING WORKFLOW:
+#    - Each file listed below goes through multiple review steps
+#    - Steps must be completed in order
+#    - Files cannot be considered DONE until all steps pass
+#
+# 2. REVIEW TASK STEPS:
+#    a) Writing Style Review (quality/writing_style_review_sop.md)
+#    b) SEO Review (quality/seo_review_sop.md)
+#    c) AdSense Review (quality/adsense_review_sop.md)
+
+#
+# 3. ERROR RECOVERY:
+#    - For failed tasks steps: Fix issues and restart that step
+#    - For needs-input: Address comments and resume with next file
+#    - For validation errors: See quality/*_review_sop.md
+#
+# 4. COMPLETION:
+#    - Move completed files to DONE.yaml
+#    - Update PROJECT_PLAN.md with progress
+#    - Document lessons in LESSONS_LEARNED.md
+#
+# =======================================
+
 
 files:
   - melissani-cave.com/403.shtml
