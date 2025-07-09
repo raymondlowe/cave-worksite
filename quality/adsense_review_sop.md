@@ -42,21 +42,9 @@ EXAMPLE OUTPUT:
    - Metric: Page-level CTR
    - Threshold: Target >1.5% overall CTR
 
-## Review Process
-1. **Monthly GA4 Reports**
-   - Run date: First Monday each month
-   - Focus metrics:
-     - Total Ad Revenue (MoM change)
-     - Top performing pages
-     - CTR trends
+## ACTION / EDIT / FIX
 
-2. **Search Console Data**
-   - Run date: Weekly
-   - Focus metrics:
-     - Impression trends
-     - Top CTR queries
-     - New high-potential keywords
-
-## Implementation Notes
-- Data extraction commands to be added when Python tools available
-- Current version uses manually exported CSV reports
+- Take actions to fix problems, expand pages, adjust topics, propose new topic clusters, create necessary files
+- Create new pages if necessary based on template (`cp inside.dwt newpage.html`)
+    - Use the writing style guidelines to ensure consistency
+    BE VERBOSE, USE FULL SENTENCES AND PARAGRAPHS, DON'T USE BULLETS OR LISTS
