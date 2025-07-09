@@ -42,7 +42,7 @@
 3. **Resolution**:
    - Minor: Editor discretion
    - Major: Content lead arbitration
-4. **Sign-off**: Digital approval in writing_style_data.json
+4. **Sign-off**: Digital approval in writing_style_data.yaml
 
 ### Quarterly Review Cycle
 1. Full site audit every 3 months
@@ -51,25 +51,18 @@
 
 ## Enhanced Tracking
 
-```json
-// Example writing_style_data.json entry
-{
-  "reviews": {
-    "history.html": {
-      "status": "pass",
-      "issues": [],
-      "comments": "Excellent tone and terminology usage",
-      "history": [
-        {
-          "date": "2025-07-01",
-          "reviewer": "editor1",
-          "changes": "Added sensory descriptions",
-          "status_change": "fail → pass"
-        }
-      ]
-    }
-  }
-}
+```yaml
+# Example writing_style_data.yaml entry
+reviews:
+  history.html:
+    status: pass
+    issues: []
+    comments: "Excellent tone and terminology usage"
+    history:
+      - date: 2025-07-01
+        reviewer: editor1
+        changes: "Added sensory descriptions"
+        status_change: "fail → pass"
 ```
 
 ## Integration Points
