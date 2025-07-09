@@ -1,5 +1,7 @@
 # TODO.yaml
 # ========== WORK INSTRUCTIONS ==========
+# WARNING: DO NOT ATTEMPT COMPLETION UNTIL ALL FILES ARE PROCESSED
+# MUST COMPLETE ALL FILES LISTED BELOW BEFORE MARKING AS DONE
 #
 # 0. CHeck ESSENTIALS_INSTRUCTIONS.md for project overview and guidelines
 #
@@ -31,20 +33,16 @@
 #    - Focus exclusively on sequential file processing without deviation
 #    - Complete all file processing before final project completion
 #    - Keep documentation simple - use only this single-level YAML structure
+#    - Just keep going, if you need input then just skip it or take the obvious best course, do not stop to ask user input
 
 # =======================================
 
 
 files:
-  - melissani-cave.com/403.shtml
-  - melissani-cave.com/404.shtml
-  - melissani-cave.com/500.shtml
   - melissani-cave.com/about.html
-  - melissani-cave.com/analytics.html
   - melissani-cave.com/beach.html
   - melissani-cave.com/cave.html
   - melissani-cave.com/contact.html
-  - melissani-cave.com/copyright.html
   - melissani-cave.com/credits.html
   - melissani-cave.com/faq.html
   - melissani-cave.com/fees.html
@@ -57,7 +55,6 @@ files:
   - melissani-cave.com/media.html
   - melissani-cave.com/nightlife.html
   - melissani-cave.com/opening-hours.html
-  - melissani-cave.com/privacy-policy.html
   - melissani-cave.com/research.html
   - melissani-cave.com/shopping.html
   - melissani-cave.com/sightseeing.html

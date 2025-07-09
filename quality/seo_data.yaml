@@ -1,0 +1,25 @@
+contact.html:
+  status: reviewed
+  notes:
+    - Add schema.org/ContactPage markup
+    - Enhance title tag (e.g. "Contact Melissani Cave | Visitor Inquiries & Support")
+    - Add meta description
+    - Include contact-related keywords:
+      - "Melissani Cave contact information"
+      - "Cave tour inquiries"
+      - "Visitor support Kefalonia"
+    - Add alt text for contact image
+    - Consider adding FAQ schema for common questions
+
+copyright.html:
+  status: reviewed
+  notes:
+    - Add schema.org/CreativeWork markup
+    - Enhance title tag (e.g. "Copyright & Usage Policy | Melissani Cave Official Website")
+    - Add meta description about copyright terms
+    - Include keywords:
+      - "Melissani Cave copyright policy"
+      - "Image usage rights Kefalonia"
+      - "Website content permissions"
+    - Add structured data for copyright notice
+    - Link to DMCA policy page

@@ -1,0 +1,20 @@
+contact.html:
+  status: reviewed
+  suitability: not_recommended
+  notes:
+    - Contact pages generally not ideal for AdSense
+    - Could reconsider if adding:
+      - Tour booking section
+      - FAQ with monetizable content
+      - Visitor resources section
+    - Current implementation should remove AdSense script
+    - Focus on conversion rather than monetization
+
+copyright.html:
+  status: reviewed
+  suitability: not_recommended
+  notes:
+    - Legal pages not suitable for AdSense
+    - Should remove AdSense script completely
+    - No monetization opportunities on copyright content
+    - Focus should be on clear legal communication
