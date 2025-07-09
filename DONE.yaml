@@ -14,3 +14,7 @@ files:
     date_completed: 2025-07-09
     commit_hash: ca42a2c
     review_types: [writing_style, seo, adsense]
+  - filename: melissani-cave.com/credits.html
+    date_completed: 2025-07-09
+    commit_hash:
+    review_types: [writing_style, seo, adsense]
