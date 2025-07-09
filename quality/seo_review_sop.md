@@ -40,6 +40,10 @@
 
 ## SEO Review Process
 
+### Real Data from Google Search Console
+
+Always check the csv (see above) for real data about queries when doing an SEO review. What phrases is this page under review using that relate to the queries and pages? Queries might be related to a topic and not just literal strings.
+
 ### Topic Identification
 - Cluster by content themes, use csv as source as well as genera knowledge
 - Map to search query patterns seen in csv files
@@ -78,3 +82,7 @@ keywords:
   - Create new pages if necessary based on template (`cp inside.dwt newpage.html`)
       - Use the writing style guidelines to ensure consistency
       BE VERBOSE, USE FULL SENTENCES AND PARAGRAPHS, DON'T USE BULLETS OR LISTS
+
+
+# TODO for SEO tools
+Need to add the tool that allows PAGE vs QUERY  to determine if a particular page has good or bad rankings for particular queries. The tool needed is at `https://github.com/raymondclowe/Google-analytics-and-search-console/tree/GA4-uv` but will need installation and configuration (authentican files) before it can be used
