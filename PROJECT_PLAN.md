@@ -33,6 +33,11 @@ When editing content particularly if expanding refer to reports in research fold
 - [x] Processed visitor-info.html through full review cycle (writing style, SEO, AdSense) - content expanded from 500 to 1200+ words with SEO optimizations
 - [x] Processed weather.html through full review cycle (writing style, SEO, AdSense) - content expanded from 300 to 800+ words with SEO optimizations
 - [x] Processed what-to-wear.html through full review cycle (writing style, SEO, AdSense) - content expanded from 350 to 900+ words with SEO optimizations
+- [x] Processed assos-village.html through full review cycle (writing style, SEO, AdSense)
+- [x] Processed drogarati.html through full review cycle (writing style, SEO, AdSense)
+- [x] Processed myrtos-beach.html through full review cycle (writing style, SEO, AdSense)
+- [x] Processed tickets.html through full review cycle (writing style, SEO, AdSense)
+- [x] Processed tours.html through full review cycle (writing style, SEO, AdSense)
 - [ ] Build content audit into initial phase (compare with `research/` materials)
 - [ ] Expand FAQ section based on visitor analytics
 - [ ] Develop multilingual content roadmap

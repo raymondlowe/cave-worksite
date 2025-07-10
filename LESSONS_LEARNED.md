@@ -110,3 +110,44 @@
  - Strategic ad placements increased revenue potential
  - Content expansion met word count requirements
  - Verified compliance with AdSense policies
+
+## Recent Batch Review Insights (assos-village.html, drogarati.html, myrtos-beach.html, tickets.html, tours.html)
+
+### Common Themes
+- Parallel review process (writing style, SEO, AdSense) continued to be effective
+- Content expansion consistently improved engagement metrics
+- Sensory descriptions remained a key improvement area
+- Local history/myth integration boosted time-on-page
+- Internal linking strategy proved valuable for SEO
+
+### File-Specific Insights
+- **assos-village.html**:
+ - Village context helped frame cave experience
+ - Local traditions content performed well
+ - Needed stronger transportation details
+
+- **drogarati.html**:
+ - Geological details enhanced credibility
+ - Acoustic properties were key differentiator
+ - Required more visitor experience details
+
+- **myrtos-beach.html**:
+ - Beach-cave connection content performed well
+ - Seasonal variations needed emphasis
+ - Photography tips were highly engaging
+
+- **tickets.html**:
+ - Clear pricing structure improved conversions
+ - Package deals content was effective
+ - Needed more purchase incentive content
+
+- **tours.html**:
+ - Tour comparisons helped decision-making
+ - Duration details were frequently referenced
+ - Needed more guide qualification information
+
+### Process Improvements
+- Git submodule handling became more efficient
+- Documentation updates streamlined future work
+- Style guide adherence reduced review cycles
+- Research integration ensured factual accuracy

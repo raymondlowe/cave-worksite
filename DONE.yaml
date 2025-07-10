@@ -167,6 +167,11 @@ files:
     review_types: [writing_style, seo, adsense]
     changes_made: [content expansion, SEO optimizations, ad placements]
     reviewer: system
+  - filename: melissani-cave.com/tours.html
+    date_completed: 2025-07-10T13:56:07+08:00
+    review_types: [writing_style, seo, adsense]
+    changes_made: [content expansion, SEO optimizations, ad placements]
+    reviewer: system
   - filename: melissani-cave.com/tickets.html
     date_completed: 2025-07-10T13:28:41+08:00
     review_types: [writing_style, seo, adsense]
